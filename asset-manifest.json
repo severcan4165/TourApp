@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TourApp/static/css/main.31c43e08.css",
+    "main.js": "/TourApp/static/js/main.80357a15.js",
+    "index.html": "/TourApp/index.html",
+    "main.31c43e08.css.map": "/TourApp/static/css/main.31c43e08.css.map",
+    "main.80357a15.js.map": "/TourApp/static/js/main.80357a15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31c43e08.css",
+    "static/js/main.80357a15.js"
+  ]
+}
